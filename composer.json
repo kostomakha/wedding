@@ -1,0 +1,14 @@
+{
+    "name": "phpstudent/wedding",
+    "authors": [
+        {
+            "name": "Kedrya Konstantin",
+            "email": "kedryakv@gmail.com"
+        }
+    ],
+"minimum-stability":"dev",
+    "require": {
+        "kostomakha/smart-routing": "dev-master",
+        "antonkalmykov/http-exchange": "^1.0"
+    }
+}
